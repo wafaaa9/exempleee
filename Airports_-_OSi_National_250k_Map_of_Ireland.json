@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"name": "Airports_-_OSi_National_250k_Map_of_Ireland",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "FCsubtype": 1, "NAMN1": "Inishmore" }, "geometry": { "type": "Point", "coordinates": [ -9.65186400000019, 53.106242999094498 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "FCsubtype": 1, "NAMN1": "Belmullet" }, "geometry": { "type": "Point", "coordinates": [ -10.013349000000201, 54.227169999105598 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "FCsubtype": 1, "NAMN1": "Inishmaan" }, "geometry": { "type": "Point", "coordinates": [ -9.5694465000002, 53.093662999094398 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "FCsubtype": 1, "NAMN1": "Inisheer" }, "geometry": { "type": "Point", "coordinates": [ -9.511105500000181, 53.064043499094097 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "FCsubtype": 1, "NAMN1": "Connemara" }, "geometry": { "type": "Point", "coordinates": [ -9.47996950000018, 53.230745999095703 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "FCsubtype": 1, "NAMN1": "Kilrush" }, "geometry": { "type": "Point", "coordinates": [ -9.468909000000201, 52.635033999090297 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 7, "FCsubtype": 1, "NAMN1": "Abbeyfeale" }, "geometry": { "type": "Point", "coordinates": [ -9.320823000000191, 52.381157999088103 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 8, "FCsubtype": 1, "NAMN1": "Rathcoole" }, "geometry": { "type": "Point", "coordinates": [ -8.984208500000189, 52.103225999085801 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 9, "FCsubtype": 1, "NAMN1": "Bantry" }, "geometry": { "type": "Point", "coordinates": [ -9.49039050000019, 51.676173499082402 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 10, "FCsubtype": 1, "NAMN1": "Erinagh" }, "geometry": { "type": "Point", "coordinates": [ -8.2684275000002, 52.831059999091998 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 11, "FCsubtype": 1, "NAMN1": "Moyne" }, "geometry": { "type": "Point", "coordinates": [ -7.77962150000019, 52.695674999090798 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 12, "FCsubtype": 1, "NAMN1": "Ballyboy" }, "geometry": { "type": "Point", "coordinates": [ -7.66840450000018, 53.168148999095102 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 13, "FCsubtype": 1, "NAMN1": "Birr" }, "geometry": { "type": "Point", "coordinates": [ -7.9126765000002, 53.113683999094597 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 14, "FCsubtype": 1, "NAMN1": "Clonbullogue" }, "geometry": { "type": "Point", "coordinates": [ -7.12378100000018, 53.2518509990959 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 15, "FCsubtype": 1, "NAMN1": "Trim" }, "geometry": { "type": "Point", "coordinates": [ -6.7558205000002, 53.566752499098897 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 16, "FCsubtype": 1, "NAMN1": "Weston" }, "geometry": { "type": "Point", "coordinates": [ -6.4869315000002, 53.357828499096897 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 17, "FCsubtype": 1, "NAMN1": "Hacketstown" }, "geometry": { "type": "Point", "coordinates": [ -6.5490595000002, 52.859769499092302 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 18, "FCsubtype": 1, "NAMN1": "Kilkenny" }, "geometry": { "type": "Point", "coordinates": [ -7.32009000000019, 52.667188499090599 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 19, "FCsubtype": 1, "NAMN1": "Abbeyshrule" }, "geometry": { "type": "Point", "coordinates": [ -7.65367700000019, 53.588888499099099 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 20, "FCsubtype": 1, "NAMN1": "Newcastle" }, "geometry": { "type": "Point", "coordinates": [ -6.07965100000018, 52.855992999092301 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 21, "FCsubtype": 1, "NAMN1": "Abbeyleix" }, "geometry": { "type": "Point", "coordinates": [ -7.33739550000018, 52.922490499092902 ] } }
+]
+}
